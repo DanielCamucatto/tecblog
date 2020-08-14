@@ -7,4 +7,3 @@
 ## Imagens 
 ![Post](/Assets/Postagem%201.png)
 ![Post](Assets/Postagem%202.png)
-/appveyor/build/:user/:repo
